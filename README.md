@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning [Vue.js](https://v3.vuejs.org/guide/introduction.html){:target="_blank"}
+- 🌱 I’m currently learning [Vue.js](https://v3.vuejs.org/guide/introduction.html)
 
-My Profile can be seen [here](www.arpit04tripathi.com){:target="_blank"}
+My Profile can be seen [here](www.arpit04tripathi.com)
