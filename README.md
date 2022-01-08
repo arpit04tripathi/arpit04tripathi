@@ -18,4 +18,3 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning [Vue.js](https://v3.vuejs.org/guide/introduction.html)
 
 My Profile can be seen [here](#)
-(http://www.arpit04tripathi.com)
