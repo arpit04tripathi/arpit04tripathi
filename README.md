@@ -1,6 +1,6 @@
 ![](https://img.magnific.com/free-vector/artificial-intelligence-concept-twitch-banner_23-2150389746.jpg?semt=ais_hybrid&w=740&q=80)
 
-![](https://komarev.com/ghpvc/?username=arpit04tripathi)
+![counter](https://komarev.com/ghpvc/?username=arpit04tripathi)
 
 ## Hi there 👋
 I'm Arpit, a Full Stack Software Engineer.
