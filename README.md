@@ -32,3 +32,14 @@ My Profile can be seen [here](www.arpit04tripathi.github.io)
 |Frontend	| Vue, Angular |
 |Data	    | PostgreSQL · MySQL · Redis |
 |Cloud	  | AWS  |
+
+## 👔 Experience
+
+|Position                |Company              | Work                  | Period            |
+|---                     |---                  |---                    |---                |
+|Software Engineer III   |London, UK (Remote)  | Full Stack Developer  |2021 Apr - now     |
+|Software Developer      |Pune, India          | Full Stack Developer  |2018 - 2021 Apr    |
+
+## 🎓 Education
+
+- Bachelor's Degree @ SGSITS Indore (MP), India (2011 - 2015)
