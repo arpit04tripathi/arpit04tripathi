@@ -26,6 +26,9 @@ My Profile can be seen [here](http://www.arpit04tripathi.github.io)
 
 ## 🛠 Technologies I Use
 
+- Backend : ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white), ![spring boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+- Frontend : ![vue](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D), ![angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
 |Layer    |       |
 |---      |---    |
 |Backend	| Java, Spring, Spring Boot |
