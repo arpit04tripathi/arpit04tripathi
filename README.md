@@ -43,3 +43,13 @@ My Profile can be seen [here](http://www.arpit04tripathi.github.io)
 ## 🎓 Education
 
 - Bachelor's Degree @ SGSITS Indore (MP), India (2011 - 2015)
+
+## Github Stats
+
+### Streaks
+
+![streaks](https://github-readme-streak-stats.herokuapp.com/?user=arpit04tripathi)
+
+### Top Langs
+
+![top langs used](https://github-readme-stats.vercel.app/api/top-langs/?username=arpit04tripathi&theme=dark)
