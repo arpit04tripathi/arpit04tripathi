@@ -48,7 +48,8 @@ My Profile can be seen [here](http://www.arpit04tripathi.github.io)
 
 ### Streaks
 
-![streaks](https://github-readme-streak-stats.herokuapp.com/?user=arpit04tripathi)
+![streaks](https://github-readme-streak-stats.herokuapp.com/?user=arpit04tripathi&theme=dark)
+![summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arpit04tripathi&theme=dark)
 
 ### Top Langs
 
